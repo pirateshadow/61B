@@ -52,6 +52,7 @@ public class Tree234 extends IntDictionary {
       /* Most of the work is done by Tree234Node.toString(). */
       return root.toString();
     }
+    
   }
 
   /**
